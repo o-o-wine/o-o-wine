@@ -1,5 +1,7 @@
+<p align = "center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=AAF0D1&height=300&section=header&text=Wine%20Git&fontSize=60&fontColor=FFFFFF)
-
+</p>
+  
 <h3 align = "center" <b> Tech Stack </b> </h3>
 </br>
 <p align = "center">
